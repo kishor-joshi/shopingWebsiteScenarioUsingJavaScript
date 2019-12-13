@@ -1,0 +1,34 @@
+{
+    "2": {
+        "userid": 2,
+        "name": "ram",
+        "selectedProductSpecification": {
+            "productID": 1,
+            "productName": "name",
+            "size": "size",
+            "colour": "colour",
+            "price": "price"
+        }
+    },
+    "4": {
+        "id": "4",
+        "name": "krish",
+        "selectedProductDetails": {
+            "productID": "4",
+            "productName": "pant",
+            "colour": "red",
+            "size": "5"
+        }
+    },
+    "5": {
+        "id": "5",
+        "name": "maghesh",
+        "selectedProductDetails": {
+            "productID": 3,
+            "productName": "T-shirt",
+            "colour": "red",
+            "size": "s",
+            "price": 249
+        }
+    }
+}

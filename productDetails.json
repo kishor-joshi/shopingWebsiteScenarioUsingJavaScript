@@ -1,0 +1,56 @@
+{
+    "1": {
+        "type": "pant",
+        "colour": [
+            "black",
+            "red",
+            "brown"
+        ],
+        "Size": {
+            "28": {
+                "size": 28,
+                "price": 299
+            },
+            "30": {
+                "size": 30,
+                "price": 399
+            },
+            "32": {
+                "size": 32,
+                "price": 499
+            }
+        }
+    },
+    "2": {
+        "type": "shirt",
+        "colour": [
+            "black",
+            "red",
+            "brown"
+        ],
+        "Size": {
+            "38": {
+                "size": 38,
+                "price": 399
+            }
+        }
+    },
+    "3": {
+        "type": "T-shirt",
+        "colour": [
+            "black",
+            "red",
+            "brown"
+        ],
+        "Size": {
+            "s": {
+                "size": "s",
+                "price": 249
+            },
+            "m": {
+                "size": "m",
+                "price": 249
+            }
+        }
+    }
+}
